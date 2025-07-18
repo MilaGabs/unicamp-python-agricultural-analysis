@@ -1,0 +1,2071 @@
+estados_brasileiros,ano,cultura,producao_toneladas
+Acre,2010,arroz,25826
+Acre,2011,arroz,23746
+Acre,2012,arroz,18358
+Acre,2013,arroz,15407
+Acre,2014,arroz,7490
+Acre,2015,arroz,7144
+Acre,2016,arroz,6375
+Acre,2017,arroz,6259
+Acre,2018,arroz,6201
+Acre,2019,arroz,4540
+Acre,2020,arroz,4626
+Acre,2021,arroz,4473
+Acre,2022,arroz,4605
+Acre,2023,arroz,4316
+Alagoas,2010,arroz,17419
+Alagoas,2011,arroz,17841
+Alagoas,2012,arroz,18607
+Alagoas,2013,arroz,11984
+Alagoas,2014,arroz,16809
+Alagoas,2015,arroz,17301
+Alagoas,2016,arroz,15249
+Alagoas,2017,arroz,16229
+Alagoas,2018,arroz,19841
+Alagoas,2019,arroz,20177
+Alagoas,2020,arroz,16072
+Alagoas,2021,arroz,24436
+Alagoas,2022,arroz,14613
+Alagoas,2023,arroz,17360
+Amapa,2010,arroz,4428
+Amapa,2011,arroz,2833
+Amapa,2012,arroz,2640
+Amapa,2013,arroz,2390
+Amapa,2014,arroz,2173
+Amapa,2015,arroz,1600
+Amapa,2016,arroz,1312
+Amapa,2017,arroz,1370
+Amapa,2018,arroz,835
+Amapa,2019,arroz,820
+Amapa,2020,arroz,835
+Amapa,2021,arroz,815
+Amapa,2022,arroz,890
+Amapa,2023,arroz,781
+Amazonas,2010,arroz,8716
+Amazonas,2011,arroz,11080
+Amazonas,2012,arroz,12908
+Amazonas,2013,arroz,8201
+Amazonas,2014,arroz,7114
+Amazonas,2015,arroz,4099
+Amazonas,2016,arroz,819
+Amazonas,2017,arroz,744
+Amazonas,2018,arroz,1224
+Amazonas,2019,arroz,1100
+Amazonas,2020,arroz,1680
+Amazonas,2021,arroz,1147
+Amazonas,2022,arroz,2963
+Amazonas,2023,arroz,7003
+Bahia,2010,arroz,33370
+Bahia,2011,arroz,34608
+Bahia,2012,arroz,24455
+Bahia,2013,arroz,15777
+Bahia,2014,arroz,10214
+Bahia,2015,arroz,8357
+Bahia,2016,arroz,7247
+Bahia,2017,arroz,1729
+Bahia,2018,arroz,635
+Bahia,2019,arroz,471
+Bahia,2020,arroz,744
+Bahia,2021,arroz,732
+Bahia,2022,arroz,691
+Bahia,2023,arroz,687
+Brasil,2010,arroz,11235986
+Brasil,2011,arroz,13476994
+Brasil,2012,arroz,11549881
+Brasil,2013,arroz,11782549
+Brasil,2014,arroz,12175602
+Brasil,2015,arroz,12301201
+Brasil,2016,arroz,10622189
+Brasil,2017,arroz,12464766
+Brasil,2018,arroz,11808412
+Brasil,2019,arroz,10368639
+Brasil,2020,arroz,11091011
+Brasil,2021,arroz,11660605
+Brasil,2022,arroz,10773990
+Brasil,2023,arroz,10285663
+Ceara,2010,arroz,63868
+Ceara,2011,arroz,93460
+Ceara,2012,arroz,51200
+Ceara,2013,arroz,49268
+Ceara,2014,arroz,39798
+Ceara,2015,arroz,24601
+Ceara,2016,arroz,14373
+Ceara,2017,arroz,19799
+Ceara,2018,arroz,17840
+Ceara,2019,arroz,15877
+Ceara,2020,arroz,16394
+Ceara,2021,arroz,19362
+Ceara,2022,arroz,17116
+Ceara,2023,arroz,19245
+Distrito Federal,2010,arroz,44
+Distrito Federal,2011,arroz,270
+Distrito Federal,2012,arroz,62
+Distrito Federal,2013,arroz,15
+Espirito Santo,2010,arroz,3375
+Espirito Santo,2011,arroz,3216
+Espirito Santo,2012,arroz,2808
+Espirito Santo,2013,arroz,2212
+Espirito Santo,2014,arroz,1369
+Espirito Santo,2015,arroz,782
+Espirito Santo,2016,arroz,491
+Espirito Santo,2017,arroz,229
+Espirito Santo,2018,arroz,376
+Espirito Santo,2019,arroz,353
+Espirito Santo,2020,arroz,345
+Espirito Santo,2021,arroz,371
+Espirito Santo,2022,arroz,373
+Espirito Santo,2023,arroz,404
+Goias,2010,arroz,221419
+Goias,2011,arroz,201198
+Goias,2012,arroz,182385
+Goias,2013,arroz,146643
+Goias,2014,arroz,126941
+Goias,2015,arroz,108938
+Goias,2016,arroz,108194
+Goias,2017,arroz,123955
+Goias,2018,arroz,111852
+Goias,2019,arroz,165383
+Goias,2020,arroz,144419
+Goias,2021,arroz,124510
+Goias,2022,arroz,107769
+Goias,2023,arroz,94559
+Maranhao,2010,arroz,589945
+Maranhao,2011,arroz,707846
+Maranhao,2012,arroz,439143
+Maranhao,2013,arroz,481396
+Maranhao,2014,arroz,586998
+Maranhao,2015,arroz,314486
+Maranhao,2016,arroz,152216
+Maranhao,2017,arroz,244573
+Maranhao,2018,arroz,206634
+Maranhao,2019,arroz,155552
+Maranhao,2020,arroz,154856
+Maranhao,2021,arroz,168014
+Maranhao,2022,arroz,181197
+Maranhao,2023,arroz,184752
+Mato Grosso,2010,arroz,687137
+Mato Grosso,2011,arroz,654716
+Mato Grosso,2012,arroz,456544
+Mato Grosso,2013,arroz,497283
+Mato Grosso,2014,arroz,581439
+Mato Grosso,2015,arroz,607759
+Mato Grosso,2016,arroz,501045
+Mato Grosso,2017,arroz,647799
+Mato Grosso,2018,arroz,502090
+Mato Grosso,2019,arroz,444634
+Mato Grosso,2020,arroz,378442
+Mato Grosso,2021,arroz,392293
+Mato Grosso,2022,arroz,347739
+Mato Grosso,2023,arroz,324706
+Mato Grosso do Sul,2010,arroz,142668
+Mato Grosso do Sul,2011,arroz,157434
+Mato Grosso do Sul,2012,arroz,106043
+Mato Grosso do Sul,2013,arroz,95835
+Mato Grosso do Sul,2014,arroz,94020
+Mato Grosso do Sul,2015,arroz,99287
+Mato Grosso do Sul,2016,arroz,75871
+Mato Grosso do Sul,2017,arroz,98992
+Mato Grosso do Sul,2018,arroz,81496
+Mato Grosso do Sul,2019,arroz,53825
+Mato Grosso do Sul,2020,arroz,51298
+Mato Grosso do Sul,2021,arroz,67115
+Mato Grosso do Sul,2022,arroz,60154
+Mato Grosso do Sul,2023,arroz,43531
+Minas Gerais,2010,arroz,115378
+Minas Gerais,2011,arroz,82991
+Minas Gerais,2012,arroz,62101
+Minas Gerais,2013,arroz,42399
+Minas Gerais,2014,arroz,38688
+Minas Gerais,2015,arroz,24568
+Minas Gerais,2016,arroz,15283
+Minas Gerais,2017,arroz,8406
+Minas Gerais,2018,arroz,7232
+Minas Gerais,2019,arroz,7438
+Minas Gerais,2020,arroz,7936
+Minas Gerais,2021,arroz,8302
+Minas Gerais,2022,arroz,10083
+Minas Gerais,2023,arroz,10327
+Para,2010,arroz,263874
+Para,2011,arroz,209491
+Para,2012,arroz,211335
+Para,2013,arroz,205358
+Para,2014,arroz,192072
+Para,2015,arroz,168368
+Para,2016,arroz,181660
+Para,2017,arroz,187561
+Para,2018,arroz,114035
+Para,2019,arroz,94508
+Para,2020,arroz,112470
+Para,2021,arroz,113734
+Para,2022,arroz,116781
+Para,2023,arroz,120410
+Paraiba,2010,arroz,484
+Paraiba,2011,arroz,4332
+Paraiba,2012,arroz,139
+Paraiba,2013,arroz,177
+Paraiba,2014,arroz,1009
+Paraiba,2015,arroz,360
+Paraiba,2016,arroz,144
+Paraiba,2017,arroz,599
+Paraiba,2018,arroz,1852
+Paraiba,2019,arroz,2073
+Paraiba,2020,arroz,2772
+Paraiba,2021,arroz,3651
+Paraiba,2022,arroz,3037
+Paraiba,2023,arroz,1720
+Parana,2010,arroz,166848
+Parana,2011,arroz,192020
+Parana,2012,arroz,177841
+Parana,2013,arroz,175798
+Parana,2014,arroz,164956
+Parana,2015,arroz,163907
+Parana,2016,arroz,119001
+Parana,2017,arroz,165820
+Parana,2018,arroz,137328
+Parana,2019,arroz,138446
+Parana,2020,arroz,150967
+Parana,2021,arroz,152890
+Parana,2022,arroz,141699
+Parana,2023,arroz,148916
+Pernambuco,2010,arroz,18067
+Pernambuco,2011,arroz,13762
+Pernambuco,2012,arroz,14653
+Pernambuco,2013,arroz,12320
+Pernambuco,2014,arroz,3157
+Pernambuco,2015,arroz,1825
+Pernambuco,2016,arroz,2207
+Pernambuco,2017,arroz,3779
+Pernambuco,2018,arroz,3314
+Pernambuco,2019,arroz,3022
+Pernambuco,2020,arroz,3622
+Pernambuco,2021,arroz,5772
+Pernambuco,2022,arroz,1812
+Pernambuco,2023,arroz,7
+Piaui,2010,arroz,113013
+Piaui,2011,arroz,271620
+Piaui,2012,arroz,130702
+Piaui,2013,arroz,90392
+Piaui,2014,arroz,144309
+Piaui,2015,arroz,99945
+Piaui,2016,arroz,43488
+Piaui,2017,arroz,106093
+Piaui,2018,arroz,109373
+Piaui,2019,arroz,78444
+Piaui,2020,arroz,103759
+Piaui,2021,arroz,97188
+Piaui,2022,arroz,81604
+Piaui,2023,arroz,92716
+Rio Grande do Norte,2010,arroz,5156
+Rio Grande do Norte,2011,arroz,3177
+Rio Grande do Norte,2012,arroz,1830
+Rio Grande do Norte,2013,arroz,3490
+Rio Grande do Norte,2014,arroz,3910
+Rio Grande do Norte,2015,arroz,2432
+Rio Grande do Norte,2016,arroz,3244
+Rio Grande do Norte,2017,arroz,3415
+Rio Grande do Norte,2018,arroz,3045
+Rio Grande do Norte,2019,arroz,3053
+Rio Grande do Norte,2020,arroz,3154
+Rio Grande do Norte,2021,arroz,3241
+Rio Grande do Norte,2022,arroz,1553
+Rio Grande do Norte,2023,arroz,328
+Rio Grande do Sul,2010,arroz,6875077
+Rio Grande do Sul,2011,arroz,8940432
+Rio Grande do Sul,2012,arroz,7692223
+Rio Grande do Sul,2013,arroz,8099357
+Rio Grande do Sul,2014,arroz,8241840
+Rio Grande do Sul,2015,arroz,8679489
+Rio Grande do Sul,2016,arroz,7493431
+Rio Grande do Sul,2017,arroz,8733110
+Rio Grande do Sul,2018,arroz,8401787
+Rio Grande do Sul,2019,arroz,7172101
+Rio Grande do Sul,2020,arroz,7753663
+Rio Grande do Sul,2021,arroz,8295840
+Rio Grande do Sul,2022,arroz,7671078
+Rio Grande do Sul,2023,arroz,7142801
+Rio de Janeiro,2010,arroz,7911
+Rio de Janeiro,2011,arroz,6765
+Rio de Janeiro,2012,arroz,5407
+Rio de Janeiro,2013,arroz,3344
+Rio de Janeiro,2014,arroz,2858
+Rio de Janeiro,2015,arroz,690
+Rio de Janeiro,2016,arroz,856
+Rio de Janeiro,2017,arroz,1888
+Rio de Janeiro,2018,arroz,379
+Rio de Janeiro,2019,arroz,627
+Rio de Janeiro,2020,arroz,114
+Rio de Janeiro,2021,arroz,785
+Rio de Janeiro,2022,arroz,863
+Rio de Janeiro,2023,arroz,737
+Rondonia,2010,arroz,164701
+Rondonia,2011,arroz,168956
+Rondonia,2012,arroz,239082
+Rondonia,2013,arroz,125441
+Rondonia,2014,arroz,134834
+Rondonia,2015,arroz,122321
+Rondonia,2016,arroz,138175
+Rondonia,2017,arroz,104749
+Rondonia,2018,arroz,109651
+Rondonia,2019,arroz,123940
+Rondonia,2020,arroz,112848
+Rondonia,2021,arroz,114942
+Rondonia,2022,arroz,121408
+Rondonia,2023,arroz,113220
+Roraima,2010,arroz,85325
+Roraima,2011,arroz,107075
+Roraima,2012,arroz,106681
+Roraima,2013,arroz,89069
+Roraima,2014,arroz,78612
+Roraima,2015,arroz,53003
+Roraima,2016,arroz,67556
+Roraima,2017,arroz,70160
+Roraima,2018,arroz,72664
+Roraima,2019,arroz,97655
+Roraima,2020,arroz,71054
+Roraima,2021,arroz,83830
+Roraima,2022,arroz,77295
+Roraima,2023,arroz,88902
+Santa Catarina,2010,arroz,1041587
+Santa Catarina,2011,arroz,980501
+Santa Catarina,2012,arroz,1097212
+Santa Catarina,2013,arroz,1020993
+Santa Catarina,2014,arroz,1082441
+Santa Catarina,2015,arroz,1081537
+Santa Catarina,2016,arroz,1050859
+Santa Catarina,2017,arroz,1127067
+Santa Catarina,2018,arroz,1090063
+Santa Catarina,2019,arroz,1062159
+Santa Catarina,2020,arroz,1215651
+Santa Catarina,2021,arroz,1195939
+Santa Catarina,2022,arroz,1194481
+Santa Catarina,2023,arroz,1176285
+Sao Paulo,2010,arroz,84429
+Sao Paulo,2011,arroz,100942
+Sao Paulo,2012,arroz,120620
+Sao Paulo,2013,arroz,67532
+Sao Paulo,2014,arroz,59802
+Sao Paulo,2015,arroz,62022
+Sao Paulo,2016,arroz,60860
+Sao Paulo,2017,arroz,59118
+Sao Paulo,2018,arroz,58928
+Sao Paulo,2019,arroz,57374
+Sao Paulo,2020,arroz,59038
+Sao Paulo,2021,arroz,58791
+Sao Paulo,2022,arroz,56740
+Sao Paulo,2023,arroz,47648
+Sergipe,2010,arroz,48601
+Sergipe,2011,arroz,18972
+Sergipe,2012,arroz,26661
+Sergipe,2013,arroz,30891
+Sergipe,2014,arroz,41714
+Sergipe,2015,arroz,25164
+Sergipe,2016,arroz,33058
+Sergipe,2017,arroz,37190
+Sergipe,2018,arroz,31737
+Sergipe,2019,arroz,28159
+Sergipe,2020,arroz,34153
+Sergipe,2021,arroz,51227
+Sergipe,2022,arroz,33808
+Sergipe,2023,arroz,39927
+Tocantins,2010,arroz,447320
+Tocantins,2011,arroz,467710
+Tocantins,2012,arroz,348241
+Tocantins,2013,arroz,489577
+Tocantins,2014,arroz,511035
+Tocantins,2015,arroz,621216
+Tocantins,2016,arroz,529175
+Tocantins,2017,arroz,694133
+Tocantins,2018,arroz,718000
+Tocantins,2019,arroz,636908
+Tocantins,2020,arroz,690099
+Tocantins,2021,arroz,671205
+Tocantins,2022,arroz,523638
+Tocantins,2023,arroz,604375
+Acre,2010,cana_de_acucar,107251
+Acre,2011,cana_de_acucar,179044
+Acre,2012,cana_de_acucar,199370
+Acre,2013,cana_de_acucar,152345
+Acre,2014,cana_de_acucar,188976
+Acre,2015,cana_de_acucar,197376
+Acre,2016,cana_de_acucar,117244
+Acre,2017,cana_de_acucar,20229
+Acre,2018,cana_de_acucar,11989
+Acre,2019,cana_de_acucar,12119
+Acre,2020,cana_de_acucar,11822
+Acre,2021,cana_de_acucar,12439
+Acre,2022,cana_de_acucar,11896
+Acre,2023,cana_de_acucar,11457
+Alagoas,2010,cana_de_acucar,24352340
+Alagoas,2011,cana_de_acucar,29257108
+Alagoas,2012,cana_de_acucar,27674454
+Alagoas,2013,cana_de_acucar,28170950
+Alagoas,2014,cana_de_acucar,26884220
+Alagoas,2015,cana_de_acucar,20714441
+Alagoas,2016,cana_de_acucar,18701217
+Alagoas,2017,cana_de_acucar,17498101
+Alagoas,2018,cana_de_acucar,16738990
+Alagoas,2019,cana_de_acucar,18702251
+Alagoas,2020,cana_de_acucar,15293563
+Alagoas,2021,cana_de_acucar,17419082
+Alagoas,2022,cana_de_acucar,17050772
+Alagoas,2023,cana_de_acucar,18982924
+Amapa,2010,cana_de_acucar,4146
+Amapa,2011,cana_de_acucar,3428
+Amapa,2012,cana_de_acucar,3645
+Amapa,2013,cana_de_acucar,3885
+Amapa,2014,cana_de_acucar,4381
+Amapa,2015,cana_de_acucar,4480
+Amapa,2016,cana_de_acucar,4560
+Amapa,2017,cana_de_acucar,3107
+Amapa,2018,cana_de_acucar,5988
+Amapa,2019,cana_de_acucar,11038
+Amapa,2020,cana_de_acucar,10325
+Amapa,2021,cana_de_acucar,8153
+Amapa,2022,cana_de_acucar,6997
+Amapa,2023,cana_de_acucar,5315
+Amazonas,2010,cana_de_acucar,341186
+Amazonas,2011,cana_de_acucar,302895
+Amazonas,2012,cana_de_acucar,304751
+Amazonas,2013,cana_de_acucar,288550
+Amazonas,2014,cana_de_acucar,302066
+Amazonas,2015,cana_de_acucar,232389
+Amazonas,2016,cana_de_acucar,224429
+Amazonas,2017,cana_de_acucar,241073
+Amazonas,2018,cana_de_acucar,252734
+Amazonas,2019,cana_de_acucar,284685
+Amazonas,2020,cana_de_acucar,305363
+Amazonas,2021,cana_de_acucar,287472
+Amazonas,2022,cana_de_acucar,360899
+Amazonas,2023,cana_de_acucar,357257
+Bahia,2010,cana_de_acucar,5868709
+Bahia,2011,cana_de_acucar,6992412
+Bahia,2012,cana_de_acucar,6894350
+Bahia,2013,cana_de_acucar,6753539
+Bahia,2014,cana_de_acucar,6705267
+Bahia,2015,cana_de_acucar,6227728
+Bahia,2016,cana_de_acucar,6413820
+Bahia,2017,cana_de_acucar,4765663
+Bahia,2018,cana_de_acucar,4859080
+Bahia,2019,cana_de_acucar,5009768
+Bahia,2020,cana_de_acucar,5460092
+Bahia,2021,cana_de_acucar,5482476
+Bahia,2022,cana_de_acucar,5208139
+Bahia,2023,cana_de_acucar,5651267
+Brasil,2010,cana_de_acucar,717463793
+Brasil,2011,cana_de_acucar,734006059
+Brasil,2012,cana_de_acucar,722926450
+Brasil,2013,cana_de_acucar,768090444
+Brasil,2014,cana_de_acucar,736108487
+Brasil,2015,cana_de_acucar,750290277
+Brasil,2016,cana_de_acucar,768594154
+Brasil,2017,cana_de_acucar,758646205
+Brasil,2018,cana_de_acucar,747556774
+Brasil,2019,cana_de_acucar,753470465
+Brasil,2020,cana_de_acucar,756070576
+Brasil,2021,cana_de_acucar,715679276
+Brasil,2022,cana_de_acucar,726052712
+Brasil,2023,cana_de_acucar,782585836
+Ceara,2010,cana_de_acucar,2306004
+Ceara,2011,cana_de_acucar,2209852
+Ceara,2012,cana_de_acucar,1996789
+Ceara,2013,cana_de_acucar,1674705
+Ceara,2014,cana_de_acucar,1176523
+Ceara,2015,cana_de_acucar,906912
+Ceara,2016,cana_de_acucar,715932
+Ceara,2017,cana_de_acucar,689418
+Ceara,2018,cana_de_acucar,512620
+Ceara,2019,cana_de_acucar,579180
+Ceara,2020,cana_de_acucar,588109
+Ceara,2021,cana_de_acucar,574953
+Ceara,2022,cana_de_acucar,522601
+Ceara,2023,cana_de_acucar,556369
+Distrito Federal,2010,cana_de_acucar,69475
+Distrito Federal,2011,cana_de_acucar,65342
+Distrito Federal,2012,cana_de_acucar,57360
+Distrito Federal,2013,cana_de_acucar,40368
+Distrito Federal,2014,cana_de_acucar,41037
+Distrito Federal,2015,cana_de_acucar,39672
+Distrito Federal,2016,cana_de_acucar,20720
+Distrito Federal,2017,cana_de_acucar,31125
+Distrito Federal,2018,cana_de_acucar,17425
+Distrito Federal,2019,cana_de_acucar,17425
+Distrito Federal,2020,cana_de_acucar,17425
+Distrito Federal,2021,cana_de_acucar,17425
+Distrito Federal,2022,cana_de_acucar,27092
+Distrito Federal,2023,cana_de_acucar,17425
+Espirito Santo,2010,cana_de_acucar,5314685
+Espirito Santo,2011,cana_de_acucar,4682285
+Espirito Santo,2012,cana_de_acucar,4650742
+Espirito Santo,2013,cana_de_acucar,3968839
+Espirito Santo,2014,cana_de_acucar,4075723
+Espirito Santo,2015,cana_de_acucar,3320809
+Espirito Santo,2016,cana_de_acucar,2706102
+Espirito Santo,2017,cana_de_acucar,2504378
+Espirito Santo,2018,cana_de_acucar,2754118
+Espirito Santo,2019,cana_de_acucar,2559423
+Espirito Santo,2020,cana_de_acucar,2578915
+Espirito Santo,2021,cana_de_acucar,2924219
+Espirito Santo,2022,cana_de_acucar,3108481
+Espirito Santo,2023,cana_de_acucar,3094072
+Goias,2010,cana_de_acucar,48000163
+Goias,2011,cana_de_acucar,54903085
+Goias,2012,cana_de_acucar,58348797
+Goias,2013,cana_de_acucar,69376714
+Goias,2014,cana_de_acucar,70152466
+Goias,2015,cana_de_acucar,72066835
+Goias,2016,cana_de_acucar,71054922
+Goias,2017,cana_de_acucar,71381519
+Goias,2018,cana_de_acucar,75733545
+Goias,2019,cana_de_acucar,75315239
+Goias,2020,cana_de_acucar,75873273
+Goias,2021,cana_de_acucar,72012198
+Goias,2022,cana_de_acucar,73525072
+Goias,2023,cana_de_acucar,81599588
+Maranhao,2010,cana_de_acucar,3176531
+Maranhao,2011,cana_de_acucar,2673211
+Maranhao,2012,cana_de_acucar,3011709
+Maranhao,2013,cana_de_acucar,2948317
+Maranhao,2014,cana_de_acucar,2665104
+Maranhao,2015,cana_de_acucar,3124141
+Maranhao,2016,cana_de_acucar,2520500
+Maranhao,2017,cana_de_acucar,2482939
+Maranhao,2018,cana_de_acucar,2427100
+Maranhao,2019,cana_de_acucar,2907191
+Maranhao,2020,cana_de_acucar,2838087
+Maranhao,2021,cana_de_acucar,2732064
+Maranhao,2022,cana_de_acucar,2827703
+Maranhao,2023,cana_de_acucar,2741432
+Mato Grosso,2010,cana_de_acucar,14564724
+Mato Grosso,2011,cana_de_acucar,14050998
+Mato Grosso,2012,cana_de_acucar,17108709
+Mato Grosso,2013,cana_de_acucar,19681574
+Mato Grosso,2014,cana_de_acucar,19032094
+Mato Grosso,2015,cana_de_acucar,20077293
+Mato Grosso,2016,cana_de_acucar,19209764
+Mato Grosso,2017,cana_de_acucar,19230604
+Mato Grosso,2018,cana_de_acucar,20433828
+Mato Grosso,2019,cana_de_acucar,23319052
+Mato Grosso,2020,cana_de_acucar,20806469
+Mato Grosso,2021,cana_de_acucar,19348547
+Mato Grosso,2022,cana_de_acucar,17345179
+Mato Grosso,2023,cana_de_acucar,19060217
+Mato Grosso do Sul,2010,cana_de_acucar,34795664
+Mato Grosso do Sul,2011,cana_de_acucar,34876698
+Mato Grosso do Sul,2012,cana_de_acucar,37761461
+Mato Grosso do Sul,2013,cana_de_acucar,42399659
+Mato Grosso do Sul,2014,cana_de_acucar,44039431
+Mato Grosso do Sul,2015,cana_de_acucar,43924003
+Mato Grosso do Sul,2016,cana_de_acucar,51927246
+Mato Grosso do Sul,2017,cana_de_acucar,46930191
+Mato Grosso do Sul,2018,cana_de_acucar,49794753
+Mato Grosso do Sul,2019,cana_de_acucar,52245291
+Mato Grosso do Sul,2020,cana_de_acucar,47896832
+Mato Grosso do Sul,2021,cana_de_acucar,47287616
+Mato Grosso do Sul,2022,cana_de_acucar,40758940
+Mato Grosso do Sul,2023,cana_de_acucar,51789876
+Minas Gerais,2010,cana_de_acucar,60603247
+Minas Gerais,2011,cana_de_acucar,67732138
+Minas Gerais,2012,cana_de_acucar,70521498
+Minas Gerais,2013,cana_de_acucar,71619149
+Minas Gerais,2014,cana_de_acucar,71086808
+Minas Gerais,2015,cana_de_acucar,69017764
+Minas Gerais,2016,cana_de_acucar,69934887
+Minas Gerais,2017,cana_de_acucar,69721579
+Minas Gerais,2018,cana_de_acucar,70808004
+Minas Gerais,2019,cana_de_acucar,72967219
+Minas Gerais,2020,cana_de_acucar,78383655
+Minas Gerais,2021,cana_de_acucar,69915645
+Minas Gerais,2022,cana_de_acucar,73312381
+Minas Gerais,2023,cana_de_acucar,82544375
+Para,2010,cana_de_acucar,668738
+Para,2011,cana_de_acucar,715152
+Para,2012,cana_de_acucar,750378
+Para,2013,cana_de_acucar,935020
+Para,2014,cana_de_acucar,921704
+Para,2015,cana_de_acucar,918297
+Para,2016,cana_de_acucar,918560
+Para,2017,cana_de_acucar,859683
+Para,2018,cana_de_acucar,925527
+Para,2019,cana_de_acucar,1029044
+Para,2020,cana_de_acucar,1014244
+Para,2021,cana_de_acucar,1028940
+Para,2022,cana_de_acucar,1209679
+Para,2023,cana_de_acucar,1209026
+Paraiba,2010,cana_de_acucar,5646151
+Paraiba,2011,cana_de_acucar,6417385
+Paraiba,2012,cana_de_acucar,5865365
+Paraiba,2013,cana_de_acucar,6094359
+Paraiba,2014,cana_de_acucar,6761570
+Paraiba,2015,cana_de_acucar,6801981
+Paraiba,2016,cana_de_acucar,6908885
+Paraiba,2017,cana_de_acucar,5369180
+Paraiba,2018,cana_de_acucar,5447699
+Paraiba,2019,cana_de_acucar,5430290
+Paraiba,2020,cana_de_acucar,5673632
+Paraiba,2021,cana_de_acucar,5630113
+Paraiba,2022,cana_de_acucar,5762668
+Paraiba,2023,cana_de_acucar,7066802
+Parana,2010,cana_de_acucar,48361207
+Parana,2011,cana_de_acucar,44907862
+Parana,2012,cana_de_acucar,47940989
+Parana,2013,cana_de_acucar,48449908
+Parana,2014,cana_de_acucar,47947529
+Parana,2015,cana_de_acucar,47368045
+Parana,2016,cana_de_acucar,47492657
+Parana,2017,cana_de_acucar,40755157
+Parana,2018,cana_de_acucar,40168956
+Parana,2019,cana_de_acucar,41642402
+Parana,2020,cana_de_acucar,40294131
+Parana,2021,cana_de_acucar,37522243
+Parana,2022,cana_de_acucar,34454276
+Parana,2023,cana_de_acucar,38586024
+Pernambuco,2010,cana_de_acucar,19704071
+Pernambuco,2011,cana_de_acucar,19332281
+Pernambuco,2012,cana_de_acucar,14242228
+Pernambuco,2013,cana_de_acucar,14834139
+Pernambuco,2014,cana_de_acucar,15417362
+Pernambuco,2015,cana_de_acucar,15965218
+Pernambuco,2016,cana_de_acucar,13738711
+Pernambuco,2017,cana_de_acucar,12352698
+Pernambuco,2018,cana_de_acucar,13083448
+Pernambuco,2019,cana_de_acucar,12618828
+Pernambuco,2020,cana_de_acucar,14826596
+Pernambuco,2021,cana_de_acucar,15602250
+Pernambuco,2022,cana_de_acucar,17380159
+Pernambuco,2023,cana_de_acucar,16693599
+Piaui,2010,cana_de_acucar,779084
+Piaui,2011,cana_de_acucar,981605
+Piaui,2012,cana_de_acucar,807877
+Piaui,2013,cana_de_acucar,756191
+Piaui,2014,cana_de_acucar,903943
+Piaui,2015,cana_de_acucar,861393
+Piaui,2016,cana_de_acucar,726743
+Piaui,2017,cana_de_acucar,829102
+Piaui,2018,cana_de_acucar,839534
+Piaui,2019,cana_de_acucar,992980
+Piaui,2020,cana_de_acucar,1002464
+Piaui,2021,cana_de_acucar,1110157
+Piaui,2022,cana_de_acucar,1063691
+Piaui,2023,cana_de_acucar,1183019
+Rio Grande do Norte,2010,cana_de_acucar,3962017
+Rio Grande do Norte,2011,cana_de_acucar,3581848
+Rio Grande do Norte,2012,cana_de_acucar,4267958
+Rio Grande do Norte,2013,cana_de_acucar,3806558
+Rio Grande do Norte,2014,cana_de_acucar,3899348
+Rio Grande do Norte,2015,cana_de_acucar,3724046
+Rio Grande do Norte,2016,cana_de_acucar,3615991
+Rio Grande do Norte,2017,cana_de_acucar,3723101
+Rio Grande do Norte,2018,cana_de_acucar,3855065
+Rio Grande do Norte,2019,cana_de_acucar,3849118
+Rio Grande do Norte,2020,cana_de_acucar,3913165
+Rio Grande do Norte,2021,cana_de_acucar,4058263
+Rio Grande do Norte,2022,cana_de_acucar,3342940
+Rio Grande do Norte,2023,cana_de_acucar,3747272
+Rio Grande do Sul,2010,cana_de_acucar,1504692
+Rio Grande do Sul,2011,cana_de_acucar,1384967
+Rio Grande do Sul,2012,cana_de_acucar,981594
+Rio Grande do Sul,2013,cana_de_acucar,1126122
+Rio Grande do Sul,2014,cana_de_acucar,1043336
+Rio Grande do Sul,2015,cana_de_acucar,834500
+Rio Grande do Sul,2016,cana_de_acucar,761076
+Rio Grande do Sul,2017,cana_de_acucar,730267
+Rio Grande do Sul,2018,cana_de_acucar,680979
+Rio Grande do Sul,2019,cana_de_acucar,628379
+Rio Grande do Sul,2020,cana_de_acucar,538129
+Rio Grande do Sul,2021,cana_de_acucar,590062
+Rio Grande do Sul,2022,cana_de_acucar,412963
+Rio Grande do Sul,2023,cana_de_acucar,426956
+Rio de Janeiro,2010,cana_de_acucar,6394477
+Rio de Janeiro,2011,cana_de_acucar,5137700
+Rio de Janeiro,2012,cana_de_acucar,5692869
+Rio de Janeiro,2013,cana_de_acucar,4955701
+Rio de Janeiro,2014,cana_de_acucar,4783066
+Rio de Janeiro,2015,cana_de_acucar,3919509
+Rio de Janeiro,2016,cana_de_acucar,2514376
+Rio de Janeiro,2017,cana_de_acucar,2352977
+Rio de Janeiro,2018,cana_de_acucar,2191722
+Rio de Janeiro,2019,cana_de_acucar,2457158
+Rio de Janeiro,2020,cana_de_acucar,2557786
+Rio de Janeiro,2021,cana_de_acucar,2556322
+Rio de Janeiro,2022,cana_de_acucar,2708935
+Rio de Janeiro,2023,cana_de_acucar,2386537
+Rondonia,2010,cana_de_acucar,233527
+Rondonia,2011,cana_de_acucar,218975
+Rondonia,2012,cana_de_acucar,221870
+Rondonia,2013,cana_de_acucar,309620
+Rondonia,2014,cana_de_acucar,334636
+Rondonia,2015,cana_de_acucar,159383
+Rondonia,2016,cana_de_acucar,339481
+Rondonia,2017,cana_de_acucar,236736
+Rondonia,2018,cana_de_acucar,71962
+Rondonia,2019,cana_de_acucar,111336
+Rondonia,2020,cana_de_acucar,30643
+Rondonia,2021,cana_de_acucar,24528
+Rondonia,2022,cana_de_acucar,17807
+Rondonia,2023,cana_de_acucar,21173
+Roraima,2010,cana_de_acucar,1455
+Roraima,2011,cana_de_acucar,1383
+Roraima,2012,cana_de_acucar,1300
+Roraima,2013,cana_de_acucar,4460
+Roraima,2014,cana_de_acucar,2808
+Roraima,2015,cana_de_acucar,3975
+Roraima,2016,cana_de_acucar,3008
+Roraima,2017,cana_de_acucar,2975
+Roraima,2018,cana_de_acucar,2031
+Roraima,2019,cana_de_acucar,2090
+Roraima,2020,cana_de_acucar,2290
+Roraima,2021,cana_de_acucar,2586
+Roraima,2022,cana_de_acucar,3135
+Roraima,2023,cana_de_acucar,3035
+Santa Catarina,2010,cana_de_acucar,422014
+Santa Catarina,2011,cana_de_acucar,532656
+Santa Catarina,2012,cana_de_acucar,499049
+Santa Catarina,2013,cana_de_acucar,498535
+Santa Catarina,2014,cana_de_acucar,563600
+Santa Catarina,2015,cana_de_acucar,384625
+Santa Catarina,2016,cana_de_acucar,373845
+Santa Catarina,2017,cana_de_acucar,369083
+Santa Catarina,2018,cana_de_acucar,181339
+Santa Catarina,2019,cana_de_acucar,185602
+Santa Catarina,2020,cana_de_acucar,191018
+Santa Catarina,2021,cana_de_acucar,196145
+Santa Catarina,2022,cana_de_acucar,187593
+Santa Catarina,2023,cana_de_acucar,203695
+Sao Paulo,2010,cana_de_acucar,426572099
+Sao Paulo,2011,cana_de_acucar,427364854
+Sao Paulo,2012,cana_de_acucar,408001978
+Sao Paulo,2013,cana_de_acucar,434079735
+Sao Paulo,2014,cana_de_acucar,401332100
+Sao Paulo,2015,cana_de_acucar,423419511
+Sao Paulo,2016,cana_de_acucar,442282329
+Sao Paulo,2017,cana_de_acucar,450424570
+Sao Paulo,2018,cana_de_acucar,430533785
+Sao Paulo,2019,cana_de_acucar,425617093
+Sao Paulo,2020,cana_de_acucar,431525560
+Sao Paulo,2021,cana_de_acucar,405000643
+Sao Paulo,2022,cana_de_acucar,420724619
+Sao Paulo,2023,cana_de_acucar,439098082
+Sergipe,2010,cana_de_acucar,2994819
+Sergipe,2011,cana_de_acucar,3336034
+Sergipe,2012,cana_de_acucar,3260251
+Sergipe,2013,cana_de_acucar,3087048
+Sergipe,2014,cana_de_acucar,3037432
+Sergipe,2015,cana_de_acucar,3220415
+Sergipe,2016,cana_de_acucar,2393110
+Sergipe,2017,cana_de_acucar,2205631
+Sergipe,2018,cana_de_acucar,2120194
+Sergipe,2019,cana_de_acucar,1869853
+Sergipe,2020,cana_de_acucar,2057934
+Sergipe,2021,cana_de_acucar,2050654
+Sergipe,2022,cana_de_acucar,2183372
+Sergipe,2023,cana_de_acucar,2476045
+Tocantins,2010,cana_de_acucar,715317
+Tocantins,2011,cana_de_acucar,2164861
+Tocantins,2012,cana_de_acucar,1859109
+Tocantins,2013,cana_de_acucar,2074454
+Tocantins,2014,cana_de_acucar,2805957
+Tocantins,2015,cana_de_acucar,2855536
+Tocantins,2016,cana_de_acucar,2974039
+Tocantins,2017,cana_de_acucar,2935119
+Tocantins,2018,cana_de_acucar,3104359
+Tocantins,2019,cana_de_acucar,3106411
+Tocantins,2020,cana_de_acucar,2379054
+Tocantins,2021,cana_de_acucar,2284081
+Tocantins,2022,cana_de_acucar,2534723
+Tocantins,2023,cana_de_acucar,3072997
+Brasil,2010,cevada,278558
+Brasil,2011,cevada,303872
+Brasil,2012,cevada,265025
+Brasil,2013,cevada,330682
+Brasil,2014,cevada,251539
+Brasil,2015,cevada,186285
+Brasil,2016,cevada,379687
+Brasil,2017,cevada,302731
+Brasil,2018,cevada,330374
+Brasil,2019,cevada,405615
+Brasil,2020,cevada,387146
+Brasil,2021,cevada,452827
+Brasil,2022,cevada,521996
+Brasil,2023,cevada,375423
+Distrito Federal,2016,cevada,312
+Distrito Federal,2018,cevada,450
+Distrito Federal,2019,cevada,315
+Distrito Federal,2020,cevada,315
+Distrito Federal,2021,cevada,315
+Distrito Federal,2022,cevada,315
+Minas Gerais,2017,cevada,2246
+Minas Gerais,2018,cevada,2236
+Minas Gerais,2019,cevada,2095
+Minas Gerais,2022,cevada,1679
+Minas Gerais,2023,cevada,1623
+Parana,2010,cevada,181810
+Parana,2011,cevada,194441
+Parana,2012,cevada,164831
+Parana,2013,cevada,192673
+Parana,2014,cevada,185611
+Parana,2015,cevada,128849
+Parana,2016,cevada,202273
+Parana,2017,cevada,179223
+Parana,2018,cevada,219232
+Parana,2019,cevada,247733
+Parana,2020,cevada,278661
+Parana,2021,cevada,321516
+Parana,2022,cevada,360308
+Parana,2023,cevada,276733
+Rio Grande do Sul,2010,cevada,87020
+Rio Grande do Sul,2011,cevada,98943
+Rio Grande do Sul,2012,cevada,87410
+Rio Grande do Sul,2013,cevada,130970
+Rio Grande do Sul,2014,cevada,63153
+Rio Grande do Sul,2015,cevada,45195
+Rio Grande do Sul,2016,cevada,160297
+Rio Grande do Sul,2017,cevada,110210
+Rio Grande do Sul,2018,cevada,93181
+Rio Grande do Sul,2019,cevada,140694
+Rio Grande do Sul,2020,cevada,93057
+Rio Grande do Sul,2021,cevada,110929
+Rio Grande do Sul,2022,cevada,142104
+Rio Grande do Sul,2023,cevada,71295
+Santa Catarina,2010,cevada,9728
+Santa Catarina,2011,cevada,10488
+Santa Catarina,2012,cevada,12784
+Santa Catarina,2013,cevada,7039
+Santa Catarina,2014,cevada,2775
+Santa Catarina,2015,cevada,6241
+Santa Catarina,2016,cevada,6022
+Santa Catarina,2017,cevada,3120
+Santa Catarina,2018,cevada,2535
+Santa Catarina,2019,cevada,2388
+Santa Catarina,2020,cevada,1080
+Santa Catarina,2021,cevada,1935
+Santa Catarina,2022,cevada,1117
+Santa Catarina,2023,cevada,4086
+Sao Paulo,2015,cevada,6000
+Sao Paulo,2016,cevada,10783
+Sao Paulo,2017,cevada,7932
+Sao Paulo,2018,cevada,12740
+Sao Paulo,2019,cevada,12390
+Sao Paulo,2020,cevada,14033
+Sao Paulo,2021,cevada,18132
+Sao Paulo,2022,cevada,16473
+Sao Paulo,2023,cevada,21686
+Acre,2010,feijao,6551
+Acre,2011,feijao,4598
+Acre,2012,feijao,6428
+Acre,2013,feijao,6604
+Acre,2014,feijao,4657
+Acre,2015,feijao,4226
+Acre,2016,feijao,4444
+Acre,2017,feijao,3907
+Acre,2018,feijao,3401
+Acre,2019,feijao,3025
+Acre,2020,feijao,2941
+Acre,2021,feijao,2855
+Acre,2022,feijao,2930
+Acre,2023,feijao,2896
+Alagoas,2010,feijao,22614
+Alagoas,2011,feijao,18227
+Alagoas,2012,feijao,3076
+Alagoas,2013,feijao,10689
+Alagoas,2014,feijao,13134
+Alagoas,2015,feijao,10652
+Alagoas,2016,feijao,5748
+Alagoas,2017,feijao,14464
+Alagoas,2018,feijao,8257
+Alagoas,2019,feijao,9802
+Alagoas,2020,feijao,10735
+Alagoas,2021,feijao,13403
+Alagoas,2022,feijao,7641
+Alagoas,2023,feijao,13624
+Amapa,2010,feijao,1468
+Amapa,2011,feijao,954
+Amapa,2012,feijao,925
+Amapa,2013,feijao,1180
+Amapa,2014,feijao,1043
+Amapa,2015,feijao,980
+Amapa,2016,feijao,1100
+Amapa,2017,feijao,1274
+Amapa,2018,feijao,782
+Amapa,2019,feijao,805
+Amapa,2020,feijao,812
+Amapa,2021,feijao,3820
+Amapa,2022,feijao,1100
+Amapa,2023,feijao,963
+Amazonas,2010,feijao,4350
+Amazonas,2011,feijao,4760
+Amazonas,2012,feijao,5353
+Amazonas,2013,feijao,3886
+Amazonas,2014,feijao,1806
+Amazonas,2015,feijao,2434
+Amazonas,2016,feijao,2004
+Amazonas,2017,feijao,2221
+Amazonas,2018,feijao,1324
+Amazonas,2019,feijao,1432
+Amazonas,2020,feijao,1508
+Amazonas,2021,feijao,1169
+Amazonas,2022,feijao,893
+Amazonas,2023,feijao,948
+Bahia,2010,feijao,316377
+Bahia,2011,feijao,222382
+Bahia,2012,feijao,106653
+Bahia,2013,feijao,230704
+Bahia,2014,feijao,356328
+Bahia,2015,feijao,413496
+Bahia,2016,feijao,144639
+Bahia,2017,feijao,134828
+Bahia,2018,feijao,129051
+Bahia,2019,feijao,179570
+Bahia,2020,feijao,193630
+Bahia,2021,feijao,164055
+Bahia,2022,feijao,176665
+Bahia,2023,feijao,174572
+Brasil,2010,feijao,3158905
+Brasil,2011,feijao,3435366
+Brasil,2012,feijao,2794854
+Brasil,2013,feijao,2892599
+Brasil,2014,feijao,3294586
+Brasil,2015,feijao,3089333
+Brasil,2016,feijao,2621267
+Brasil,2017,feijao,3046079
+Brasil,2018,feijao,2916365
+Brasil,2019,feijao,2908075
+Brasil,2020,feijao,3036254
+Brasil,2021,feijao,2900805
+Brasil,2022,feijao,2872474
+Brasil,2023,feijao,2899043
+Ceara,2010,feijao,83286
+Ceara,2011,feijao,264205
+Ceara,2012,feijao,52721
+Ceara,2013,feijao,55630
+Ceara,2014,feijao,108998
+Ceara,2015,feijao,67368
+Ceara,2016,feijao,56669
+Ceara,2017,feijao,133341
+Ceara,2018,feijao,137953
+Ceara,2019,feijao,110067
+Ceara,2020,feijao,124746
+Ceara,2021,feijao,110981
+Ceara,2022,feijao,101980
+Ceara,2023,feijao,68044
+Distrito Federal,2010,feijao,49007
+Distrito Federal,2011,feijao,56985
+Distrito Federal,2012,feijao,49389
+Distrito Federal,2013,feijao,25032
+Distrito Federal,2014,feijao,44350
+Distrito Federal,2015,feijao,33496
+Distrito Federal,2016,feijao,25795
+Distrito Federal,2017,feijao,44625
+Distrito Federal,2018,feijao,35820
+Distrito Federal,2019,feijao,33609
+Distrito Federal,2020,feijao,46484
+Distrito Federal,2021,feijao,27240
+Distrito Federal,2022,feijao,35700
+Distrito Federal,2023,feijao,44247
+Espirito Santo,2010,feijao,13247
+Espirito Santo,2011,feijao,13400
+Espirito Santo,2012,feijao,14411
+Espirito Santo,2013,feijao,13329
+Espirito Santo,2014,feijao,14133
+Espirito Santo,2015,feijao,13483
+Espirito Santo,2016,feijao,10843
+Espirito Santo,2017,feijao,11674
+Espirito Santo,2018,feijao,11839
+Espirito Santo,2019,feijao,9766
+Espirito Santo,2020,feijao,9421
+Espirito Santo,2021,feijao,9920
+Espirito Santo,2022,feijao,9909
+Espirito Santo,2023,feijao,10482
+Goias,2010,feijao,288816
+Goias,2011,feijao,311837
+Goias,2012,feijao,336304
+Goias,2013,feijao,294027
+Goias,2014,feijao,316287
+Goias,2015,feijao,289463
+Goias,2016,feijao,330284
+Goias,2017,feijao,355422
+Goias,2018,feijao,344329
+Goias,2019,feijao,341045
+Goias,2020,feijao,353457
+Goias,2021,feijao,341189
+Goias,2022,feijao,342170
+Goias,2023,feijao,356020
+Maranhao,2010,feijao,37542
+Maranhao,2011,feijao,43030
+Maranhao,2012,feijao,34837
+Maranhao,2013,feijao,42983
+Maranhao,2014,feijao,49988
+Maranhao,2015,feijao,45918
+Maranhao,2016,feijao,33776
+Maranhao,2017,feijao,43454
+Maranhao,2018,feijao,34236
+Maranhao,2019,feijao,31047
+Maranhao,2020,feijao,27260
+Maranhao,2021,feijao,26707
+Maranhao,2022,feijao,27470
+Maranhao,2023,feijao,26474
+Mato Grosso,2010,feijao,133813
+Mato Grosso,2011,feijao,196006
+Mato Grosso,2012,feijao,243365
+Mato Grosso,2013,feijao,279617
+Mato Grosso,2014,feijao,304043
+Mato Grosso,2015,feijao,318881
+Mato Grosso,2016,feijao,230897
+Mato Grosso,2017,feijao,352422
+Mato Grosso,2018,feijao,332976
+Mato Grosso,2019,feijao,278957
+Mato Grosso,2020,feijao,335345
+Mato Grosso,2021,feijao,355501
+Mato Grosso,2022,feijao,272056
+Mato Grosso,2023,feijao,294014
+Mato Grosso do Sul,2010,feijao,31937
+Mato Grosso do Sul,2011,feijao,24008
+Mato Grosso do Sul,2012,feijao,31694
+Mato Grosso do Sul,2013,feijao,27563
+Mato Grosso do Sul,2014,feijao,29241
+Mato Grosso do Sul,2015,feijao,27057
+Mato Grosso do Sul,2016,feijao,16446
+Mato Grosso do Sul,2017,feijao,31338
+Mato Grosso do Sul,2018,feijao,24176
+Mato Grosso do Sul,2019,feijao,31323
+Mato Grosso do Sul,2020,feijao,34262
+Mato Grosso do Sul,2021,feijao,12057
+Mato Grosso do Sul,2022,feijao,18183
+Mato Grosso do Sul,2023,feijao,17856
+Minas Gerais,2010,feijao,623720
+Minas Gerais,2011,feijao,582966
+Minas Gerais,2012,feijao,633827
+Minas Gerais,2013,feijao,564295
+Minas Gerais,2014,feijao,573203
+Minas Gerais,2015,feijao,509164
+Minas Gerais,2016,feijao,522388
+Minas Gerais,2017,feijao,498441
+Minas Gerais,2018,feijao,490414
+Minas Gerais,2019,feijao,531604
+Minas Gerais,2020,feijao,553065
+Minas Gerais,2021,feijao,536826
+Minas Gerais,2022,feijao,475364
+Minas Gerais,2023,feijao,578804
+Para,2010,feijao,36498
+Para,2011,feijao,38013
+Para,2012,feijao,35512
+Para,2013,feijao,30737
+Para,2014,feijao,28751
+Para,2015,feijao,24800
+Para,2016,feijao,24066
+Para,2017,feijao,27880
+Para,2018,feijao,20584
+Para,2019,feijao,20883
+Para,2020,feijao,19891
+Para,2021,feijao,20759
+Para,2022,feijao,20922
+Para,2023,feijao,20479
+Paraiba,2010,feijao,10176
+Paraiba,2011,feijao,37890
+Paraiba,2012,feijao,3199
+Paraiba,2013,feijao,22207
+Paraiba,2014,feijao,17874
+Paraiba,2015,feijao,7019
+Paraiba,2016,feijao,9349
+Paraiba,2017,feijao,20527
+Paraiba,2018,feijao,33878
+Paraiba,2019,feijao,21143
+Paraiba,2020,feijao,36103
+Paraiba,2021,feijao,21366
+Paraiba,2022,feijao,26749
+Paraiba,2023,feijao,16544
+Parana,2010,feijao,792010
+Parana,2011,feijao,815280
+Parana,2012,feijao,700371
+Parana,2013,feijao,678105
+Parana,2014,feijao,813623
+Parana,2015,feijao,726213
+Parana,2016,feijao,595210
+Parana,2017,feijao,702212
+Parana,2018,feijao,635086
+Parana,2019,feijao,635728
+Parana,2020,feijao,624801
+Parana,2021,feijao,631397
+Parana,2022,feijao,733352
+Parana,2023,feijao,686477
+Pernambuco,2010,feijao,68742
+Pernambuco,2011,feijao,107418
+Pernambuco,2012,feijao,18240
+Pernambuco,2013,feijao,41098
+Pernambuco,2014,feijao,52787
+Pernambuco,2015,feijao,33967
+Pernambuco,2016,feijao,24853
+Pernambuco,2017,feijao,47844
+Pernambuco,2018,feijao,50601
+Pernambuco,2019,feijao,47498
+Pernambuco,2020,feijao,64684
+Pernambuco,2021,feijao,71153
+Pernambuco,2022,feijao,44160
+Pernambuco,2023,feijao,48173
+Piaui,2010,feijao,32761
+Piaui,2011,feijao,79946
+Piaui,2012,feijao,26520
+Piaui,2013,feijao,39833
+Piaui,2014,feijao,55278
+Piaui,2015,feijao,47531
+Piaui,2016,feijao,21959
+Piaui,2017,feijao,68653
+Piaui,2018,feijao,93926
+Piaui,2019,feijao,78642
+Piaui,2020,feijao,82984
+Piaui,2021,feijao,53280
+Piaui,2022,feijao,65334
+Piaui,2023,feijao,44517
+Rio Grande do Norte,2010,feijao,10392
+Rio Grande do Norte,2011,feijao,33810
+Rio Grande do Norte,2012,feijao,1812
+Rio Grande do Norte,2013,feijao,8832
+Rio Grande do Norte,2014,feijao,10102
+Rio Grande do Norte,2015,feijao,4169
+Rio Grande do Norte,2016,feijao,3484
+Rio Grande do Norte,2017,feijao,8941
+Rio Grande do Norte,2018,feijao,22241
+Rio Grande do Norte,2019,feijao,26390
+Rio Grande do Norte,2020,feijao,23996
+Rio Grande do Norte,2021,feijao,10396
+Rio Grande do Norte,2022,feijao,16015
+Rio Grande do Norte,2023,feijao,10894
+Rio Grande do Sul,2010,feijao,112510
+Rio Grande do Sul,2011,feijao,119108
+Rio Grande do Sul,2012,feijao,85573
+Rio Grande do Sul,2013,feijao,94805
+Rio Grande do Sul,2014,feijao,110765
+Rio Grande do Sul,2015,feijao,95349
+Rio Grande do Sul,2016,feijao,87730
+Rio Grande do Sul,2017,feijao,98783
+Rio Grande do Sul,2018,feijao,94824
+Rio Grande do Sul,2019,feijao,91774
+Rio Grande do Sul,2020,feijao,81108
+Rio Grande do Sul,2021,feijao,89744
+Rio Grande do Sul,2022,feijao,85322
+Rio Grande do Sul,2023,feijao,70643
+Rio de Janeiro,2010,feijao,4442
+Rio de Janeiro,2011,feijao,3836
+Rio de Janeiro,2012,feijao,3422
+Rio de Janeiro,2013,feijao,3039
+Rio de Janeiro,2014,feijao,2466
+Rio de Janeiro,2015,feijao,1810
+Rio de Janeiro,2016,feijao,1717
+Rio de Janeiro,2017,feijao,1699
+Rio de Janeiro,2018,feijao,1458
+Rio de Janeiro,2019,feijao,2838
+Rio de Janeiro,2020,feijao,2036
+Rio de Janeiro,2021,feijao,1144
+Rio de Janeiro,2022,feijao,1451
+Rio de Janeiro,2023,feijao,1596
+Rondonia,2010,feijao,8747
+Rondonia,2011,feijao,35563
+Rondonia,2012,feijao,37685
+Rondonia,2013,feijao,27993
+Rondonia,2014,feijao,21587
+Rondonia,2015,feijao,19475
+Rondonia,2016,feijao,13323
+Rondonia,2017,feijao,16541
+Rondonia,2018,feijao,16158
+Rondonia,2019,feijao,16036
+Rondonia,2020,feijao,15660
+Rondonia,2021,feijao,11968
+Rondonia,2022,feijao,2787
+Rondonia,2023,feijao,2445
+Roraima,2010,feijao,1992
+Roraima,2011,feijao,1992
+Roraima,2012,feijao,1992
+Roraima,2013,feijao,2251
+Roraima,2014,feijao,1886
+Roraima,2015,feijao,1964
+Roraima,2016,feijao,1613
+Roraima,2017,feijao,1716
+Roraima,2018,feijao,910
+Roraima,2019,feijao,970
+Roraima,2020,feijao,1072
+Roraima,2021,feijao,1514
+Roraima,2022,feijao,1713
+Roraima,2023,feijao,1453
+Santa Catarina,2010,feijao,167903
+Santa Catarina,2011,feijao,156744
+Santa Catarina,2012,feijao,115719
+Santa Catarina,2013,feijao,135855
+Santa Catarina,2014,feijao,145171
+Santa Catarina,2015,feijao,138776
+Santa Catarina,2016,feijao,123461
+Santa Catarina,2017,feijao,129591
+Santa Catarina,2018,feijao,124420
+Santa Catarina,2019,feijao,108976
+Santa Catarina,2020,feijao,98608
+Santa Catarina,2021,feijao,98334
+Santa Catarina,2022,feijao,108105
+Santa Catarina,2023,feijao,109530
+Sao Paulo,2010,feijao,235234
+Sao Paulo,2011,feijao,216829
+Sao Paulo,2012,feijao,206738
+Sao Paulo,2013,feijao,216471
+Sao Paulo,2014,feijao,194490
+Sao Paulo,2015,feijao,235999
+Sao Paulo,2016,feijao,308813
+Sao Paulo,2017,feijao,265564
+Sao Paulo,2018,feijao,242769
+Sao Paulo,2019,feijao,264859
+Sao Paulo,2020,feijao,255490
+Sao Paulo,2021,feijao,229660
+Sao Paulo,2022,feijao,234837
+Sao Paulo,2023,feijao,218240
+Sergipe,2010,feijao,31343
+Sergipe,2011,feijao,11576
+Sergipe,2012,feijao,6304
+Sergipe,2013,feijao,17886
+Sergipe,2014,feijao,10177
+Sergipe,2015,feijao,7992
+Sergipe,2016,feijao,2643
+Sergipe,2017,feijao,13691
+Sergipe,2018,feijao,1927
+Sergipe,2019,feijao,3836
+Sergipe,2020,feijao,3776
+Sergipe,2021,feijao,1828
+Sergipe,2022,feijao,2192
+Sergipe,2023,feijao,1738
+Tocantins,2010,feijao,33427
+Tocantins,2011,feijao,34003
+Tocantins,2012,feijao,32784
+Tocantins,2013,feijao,17948
+Tocantins,2014,feijao,12418
+Tocantins,2015,feijao,7651
+Tocantins,2016,feijao,18013
+Tocantins,2017,feijao,15026
+Tocantins,2018,feijao,23025
+Tocantins,2019,feijao,26450
+Tocantins,2020,feijao,32379
+Tocantins,2021,feijao,52539
+Tocantins,2022,feijao,57474
+Tocantins,2023,feijao,77370
+Acre,2010,milho,81125
+Acre,2011,milho,81793
+Acre,2012,milho,96687
+Acre,2013,milho,124536
+Acre,2014,milho,104984
+Acre,2015,milho,94483
+Acre,2016,milho,82329
+Acre,2017,milho,89244
+Acre,2018,milho,80631
+Acre,2019,milho,75412
+Acre,2020,milho,83819
+Acre,2021,milho,105885
+Acre,2022,milho,135276
+Acre,2023,milho,139065
+Alagoas,2010,milho,23480
+Alagoas,2011,milho,33393
+Alagoas,2012,milho,1650
+Alagoas,2013,milho,8749
+Alagoas,2014,milho,11301
+Alagoas,2015,milho,15800
+Alagoas,2016,milho,13057
+Alagoas,2017,milho,33507
+Alagoas,2018,milho,25421
+Alagoas,2019,milho,54122
+Alagoas,2020,milho,61097
+Alagoas,2021,milho,82272
+Alagoas,2022,milho,48055
+Alagoas,2023,milho,71427
+Amapa,2010,milho,3233
+Amapa,2011,milho,2466
+Amapa,2012,milho,2120
+Amapa,2013,milho,2011
+Amapa,2014,milho,1958
+Amapa,2015,milho,1650
+Amapa,2016,milho,1517
+Amapa,2017,milho,1564
+Amapa,2018,milho,1155
+Amapa,2019,milho,1138
+Amapa,2020,milho,1150
+Amapa,2021,milho,1186
+Amapa,2022,milho,2350
+Amapa,2023,milho,2217
+Amazonas,2010,milho,34880
+Amazonas,2011,milho,35945
+Amazonas,2012,milho,36697
+Amazonas,2013,milho,27610
+Amazonas,2014,milho,21430
+Amazonas,2015,milho,16816
+Amazonas,2016,milho,9929
+Amazonas,2017,milho,8852
+Amazonas,2018,milho,8114
+Amazonas,2019,milho,6683
+Amazonas,2020,milho,6824
+Amazonas,2021,milho,6363
+Amazonas,2022,milho,5593
+Amazonas,2023,milho,8265
+Bahia,2010,milho,2223302
+Bahia,2011,milho,2051623
+Bahia,2012,milho,1882938
+Bahia,2013,milho,2109906
+Bahia,2014,milho,2920991
+Bahia,2015,milho,2681529
+Bahia,2016,milho,1580460
+Bahia,2017,milho,1915453
+Bahia,2018,milho,2264648
+Bahia,2019,milho,1886858
+Bahia,2020,milho,2646751
+Bahia,2021,milho,2450153
+Bahia,2022,milho,2739012
+Bahia,2023,milho,3097058
+Brasil,2010,milho,55364271
+Brasil,2011,milho,55660235
+Brasil,2012,milho,71072810
+Brasil,2013,milho,80273172
+Brasil,2014,milho,79881614
+Brasil,2015,milho,85283700
+Brasil,2016,milho,64188314
+Brasil,2017,milho,97910658
+Brasil,2018,milho,82366531
+Brasil,2019,milho,101126409
+Brasil,2020,milho,103990935
+Brasil,2021,milho,88272116
+Brasil,2022,milho,109738941
+Brasil,2023,milho,131950246
+Ceara,2010,milho,174955
+Ceara,2011,milho,915286
+Ceara,2012,milho,122501
+Ceara,2013,milho,112741
+Ceara,2014,milho,347828
+Ceara,2015,milho,130887
+Ceara,2016,milho,114675
+Ceara,2017,milho,373425
+Ceara,2018,milho,470149
+Ceara,2019,milho,423601
+Ceara,2020,milho,633317
+Ceara,2021,milho,414411
+Ceara,2022,milho,538505
+Ceara,2023,milho,359987
+Distrito Federal,2010,milho,246219
+Distrito Federal,2011,milho,263888
+Distrito Federal,2012,milho,403111
+Distrito Federal,2013,milho,420636
+Distrito Federal,2014,milho,666390
+Distrito Federal,2015,milho,528188
+Distrito Federal,2016,milho,292474
+Distrito Federal,2017,milho,460740
+Distrito Federal,2018,milho,392580
+Distrito Federal,2019,milho,499800
+Distrito Federal,2020,milho,486138
+Distrito Federal,2021,milho,324000
+Distrito Federal,2022,milho,327000
+Distrito Federal,2023,milho,313200
+Espirito Santo,2010,milho,65537
+Espirito Santo,2011,milho,81924
+Espirito Santo,2012,milho,77233
+Espirito Santo,2013,milho,62831
+Espirito Santo,2014,milho,58221
+Espirito Santo,2015,milho,30147
+Espirito Santo,2016,milho,37897
+Espirito Santo,2017,milho,37209
+Espirito Santo,2018,milho,42027
+Espirito Santo,2019,milho,37533
+Espirito Santo,2020,milho,38883
+Espirito Santo,2021,milho,41670
+Espirito Santo,2022,milho,52537
+Espirito Santo,2023,milho,67475
+Goias,2010,milho,4676483
+Goias,2011,milho,5743622
+Goias,2012,milho,8230069
+Goias,2013,milho,7686971
+Goias,2014,milho,9088029
+Goias,2015,milho,9512503
+Goias,2016,milho,5804842
+Goias,2017,milho,9996344
+Goias,2018,milho,8998655
+Goias,2019,milho,11979032
+Goias,2020,milho,11838775
+Goias,2021,milho,10750433
+Goias,2022,milho,10709893
+Goias,2023,milho,14460846
+Maranhao,2010,milho,535853
+Maranhao,2011,milho,646209
+Maranhao,2012,milho,783491
+Maranhao,2013,milho,1321683
+Maranhao,2014,milho,1520047
+Maranhao,2015,milho,1397831
+Maranhao,2016,milho,682791
+Maranhao,2017,milho,1631080
+Maranhao,2018,milho,1318782
+Maranhao,2019,milho,1803512
+Maranhao,2020,milho,2177432
+Maranhao,2021,milho,2267556
+Maranhao,2022,milho,2278917
+Maranhao,2023,milho,2487084
+Mato Grosso,2010,milho,8164273
+Mato Grosso,2011,milho,7763942
+Mato Grosso,2012,milho,15646716
+Mato Grosso,2013,milho,20186020
+Mato Grosso,2014,milho,18071316
+Mato Grosso,2015,milho,21353295
+Mato Grosso,2016,milho,15339785
+Mato Grosso,2017,milho,29942322
+Mato Grosso,2018,milho,26172540
+Mato Grosso,2019,milho,31504274
+Mato Grosso,2020,milho,33650671
+Mato Grosso,2021,milho,32051305
+Mato Grosso,2022,milho,38331222
+Mato Grosso,2023,milho,50241972
+Mato Grosso do Sul,2010,milho,3782946
+Mato Grosso do Sul,2011,milho,3628492
+Mato Grosso do Sul,2012,milho,6477070
+Mato Grosso do Sul,2013,milho,7573324
+Mato Grosso do Sul,2014,milho,8251121
+Mato Grosso do Sul,2015,milho,9727809
+Mato Grosso do Sul,2016,milho,6029756
+Mato Grosso do Sul,2017,milho,9821727
+Mato Grosso do Sul,2018,milho,7430987
+Mato Grosso do Sul,2019,milho,9963206
+Mato Grosso do Sul,2020,milho,10696608
+Mato Grosso do Sul,2021,milho,5418082
+Mato Grosso do Sul,2022,milho,12870873
+Mato Grosso do Sul,2023,milho,13443031
+Minas Gerais,2010,milho,6089941
+Minas Gerais,2011,milho,6536187
+Minas Gerais,2012,milho,7625142
+Minas Gerais,2013,milho,7447665
+Minas Gerais,2014,milho,6966931
+Minas Gerais,2015,milho,6839297
+Minas Gerais,2016,milho,5843579
+Minas Gerais,2017,milho,6752413
+Minas Gerais,2018,milho,6634939
+Minas Gerais,2019,milho,7468417
+Minas Gerais,2020,milho,7689309
+Minas Gerais,2021,milho,6788836
+Minas Gerais,2022,milho,7847614
+Minas Gerais,2023,milho,8296982
+Para,2010,milho,519258
+Para,2011,milho,541128
+Para,2012,milho,604799
+Para,2013,milho,613546
+Para,2014,milho,590078
+Para,2015,milho,759662
+Para,2016,milho,643008
+Para,2017,milho,872065
+Para,2018,milho,790965
+Para,2019,milho,827720
+Para,2020,milho,893065
+Para,2021,milho,1122835
+Para,2022,milho,1240534
+Para,2023,milho,1739135
+Paraiba,2010,milho,11507
+Paraiba,2011,milho,62426
+Paraiba,2012,milho,6548
+Paraiba,2013,milho,27452
+Paraiba,2014,milho,28249
+Paraiba,2015,milho,10934
+Paraiba,2016,milho,12613
+Paraiba,2017,milho,26242
+Paraiba,2018,milho,54748
+Paraiba,2019,milho,39414
+Paraiba,2020,milho,77585
+Paraiba,2021,milho,48172
+Paraiba,2022,milho,69495
+Paraiba,2023,milho,41946
+Parana,2010,milho,13567096
+Parana,2011,milho,12472720
+Parana,2012,milho,16555330
+Parana,2013,milho,17342302
+Parana,2014,milho,15823241
+Parana,2015,milho,15777409
+Parana,2016,milho,13929989
+Parana,2017,milho,17542688
+Parana,2018,milho,12760610
+Parana,2019,milho,16519549
+Parana,2020,milho,15809775
+Parana,2021,milho,10528860
+Parana,2022,milho,15604352
+Parana,2023,milho,17884646
+Pernambuco,2010,milho,69715
+Pernambuco,2011,milho,124028
+Pernambuco,2012,milho,22054
+Pernambuco,2013,milho,23922
+Pernambuco,2014,milho,53074
+Pernambuco,2015,milho,26493
+Pernambuco,2016,milho,13364
+Pernambuco,2017,milho,45598
+Pernambuco,2018,milho,51040
+Pernambuco,2019,milho,30489
+Pernambuco,2020,milho,92638
+Pernambuco,2021,milho,66281
+Pernambuco,2022,milho,68046
+Pernambuco,2023,milho,55709
+Piaui,2010,milho,342483
+Piaui,2011,milho,677623
+Piaui,2012,milho,769387
+Piaui,2013,milho,485043
+Piaui,2014,milho,1036825
+Piaui,2015,milho,1101439
+Piaui,2016,milho,600690
+Piaui,2017,milho,1439469
+Piaui,2018,milho,1518094
+Piaui,2019,milho,1835613
+Piaui,2020,milho,2199753
+Piaui,2021,milho,2145035
+Piaui,2022,milho,2591483
+Piaui,2023,milho,2752791
+Rio Grande do Norte,2010,milho,8119
+Rio Grande do Norte,2011,milho,47926
+Rio Grande do Norte,2012,milho,2489
+Rio Grande do Norte,2013,milho,11924
+Rio Grande do Norte,2014,milho,13167
+Rio Grande do Norte,2015,milho,4222
+Rio Grande do Norte,2016,milho,2943
+Rio Grande do Norte,2017,milho,4071
+Rio Grande do Norte,2018,milho,23934
+Rio Grande do Norte,2019,milho,30687
+Rio Grande do Norte,2020,milho,31252
+Rio Grande do Norte,2021,milho,13345
+Rio Grande do Norte,2022,milho,28509
+Rio Grande do Norte,2023,milho,25880
+Rio Grande do Sul,2010,milho,5633912
+Rio Grande do Sul,2011,milho,5772422
+Rio Grande do Sul,2012,milho,3155061
+Rio Grande do Sul,2013,milho,5419780
+Rio Grande do Sul,2014,milho,5389520
+Rio Grande do Sul,2015,milho,5563555
+Rio Grande do Sul,2016,milho,4729948
+Rio Grande do Sul,2017,milho,6058900
+Rio Grande do Sul,2018,milho,4557251
+Rio Grande do Sul,2019,milho,5735186
+Rio Grande do Sul,2020,milho,4211208
+Rio Grande do Sul,2021,milho,4389617
+Rio Grande do Sul,2022,milho,3000744
+Rio Grande do Sul,2023,milho,3960494
+Rio de Janeiro,2010,milho,17678
+Rio de Janeiro,2011,milho,18278
+Rio de Janeiro,2012,milho,15009
+Rio de Janeiro,2013,milho,13321
+Rio de Janeiro,2014,milho,11062
+Rio de Janeiro,2015,milho,6234
+Rio de Janeiro,2016,milho,7563
+Rio de Janeiro,2017,milho,8243
+Rio de Janeiro,2018,milho,7094
+Rio de Janeiro,2019,milho,7967
+Rio de Janeiro,2020,milho,7866
+Rio de Janeiro,2021,milho,8557
+Rio de Janeiro,2022,milho,10775
+Rio de Janeiro,2023,milho,10458
+Rondonia,2010,milho,365980
+Rondonia,2011,milho,340045
+Rondonia,2012,milho,534423
+Rondonia,2013,milho,449449
+Rondonia,2014,milho,542279
+Rondonia,2015,milho,787093
+Rondonia,2016,milho,602411
+Rondonia,2017,milho,933956
+Rondonia,2018,milho,735150
+Rondonia,2019,milho,1004717
+Rondonia,2020,milho,1036905
+Rondonia,2021,milho,1232783
+Rondonia,2022,milho,1485546
+Rondonia,2023,milho,1705199
+Roraima,2010,milho,12800
+Roraima,2011,milho,11800
+Roraima,2012,milho,11800
+Roraima,2013,milho,15438
+Roraima,2014,milho,15350
+Roraima,2015,milho,15528
+Roraima,2016,milho,17013
+Roraima,2017,milho,41374
+Roraima,2018,milho,44648
+Roraima,2019,milho,50390
+Roraima,2020,milho,79128
+Roraima,2021,milho,114159
+Roraima,2022,milho,97870
+Roraima,2023,milho,79774
+Santa Catarina,2010,milho,3653803
+Santa Catarina,2011,milho,3651825
+Santa Catarina,2012,milho,2870450
+Santa Catarina,2013,milho,3326366
+Santa Catarina,2014,milho,3149729
+Santa Catarina,2015,milho,3076480
+Santa Catarina,2016,milho,2530363
+Santa Catarina,2017,milho,3009582
+Santa Catarina,2018,milho,2574200
+Santa Catarina,2019,milho,2767069
+Santa Catarina,2020,milho,2701935
+Santa Catarina,2021,milho,2006694
+Santa Catarina,2022,milho,2138770
+Santa Catarina,2023,milho,2586339
+Sao Paulo,2010,milho,4026500
+Sao Paulo,2011,milho,3362555
+Sao Paulo,2012,milho,4478520
+Sao Paulo,2013,milho,4408375
+Sao Paulo,2014,milho,3983895
+Sao Paulo,2015,milho,4688951
+Sao Paulo,2016,milho,4592671
+Sao Paulo,2017,milho,5178871
+Sao Paulo,2018,milho,4488539
+Sao Paulo,2019,milho,4800956
+Sao Paulo,2020,milho,4503594
+Sao Paulo,2021,milho,3709901
+Sao Paulo,2022,milho,4785141
+Sao Paulo,2023,milho,4846053
+Sergipe,2010,milho,750718
+Sergipe,2011,milho,480476
+Sergipe,2012,milho,290575
+Sergipe,2013,milho,700902
+Sergipe,2014,milho,762472
+Sergipe,2015,milho,495729
+Sergipe,2016,milho,140962
+Sergipe,2017,milho,843762
+Sergipe,2018,milho,106814
+Sergipe,2019,milho,687221
+Sergipe,2020,milho,904506
+Sergipe,2021,milho,741765
+Sergipe,2022,milho,793896
+Sergipe,2023,milho,874463
+Tocantins,2010,milho,282475
+Tocantins,2011,milho,312213
+Tocantins,2012,milho,370940
+Tocantins,2013,milho,350669
+Tocantins,2014,milho,452126
+Tocantins,2015,milho,639736
+Tocantins,2016,milho,531685
+Tocantins,2017,milho,841957
+Tocantins,2018,milho,812816
+Tocantins,2019,milho,1085843
+Tocantins,2020,milho,1430951
+Tocantins,2021,milho,1441960
+Tocantins,2022,milho,1936933
+Tocantins,2023,milho,2398750
+Acre,2010,soja,330
+Acre,2011,soja,282
+Acre,2013,soja,154
+Acre,2014,soja,1095
+Acre,2016,soja,150
+Acre,2017,soja,261
+Acre,2018,soja,1410
+Acre,2019,soja,5051
+Acre,2020,soja,10380
+Acre,2021,soja,20156
+Acre,2022,soja,22667
+Acre,2023,soja,45732
+Alagoas,2015,soja,550
+Alagoas,2016,soja,1043
+Alagoas,2017,soja,1240
+Alagoas,2018,soja,2475
+Alagoas,2019,soja,10363
+Alagoas,2020,soja,4640
+Alagoas,2021,soja,9391
+Alagoas,2022,soja,11242
+Alagoas,2023,soja,18289
+Amapa,2013,soja,12906
+Amapa,2014,soja,40792
+Amapa,2015,soja,29370
+Amapa,2016,soja,42351
+Amapa,2017,soja,54400
+Amapa,2018,soja,57239
+Amapa,2019,soja,46862
+Amapa,2020,soja,47818
+Amapa,2021,soja,17956
+Amapa,2022,soja,18035
+Amapa,2023,soja,19536
+Amazonas,2010,soja,540
+Amazonas,2011,soja,540
+Amazonas,2012,soja,660
+Amazonas,2013,soja,60
+Amazonas,2019,soja,7500
+Amazonas,2020,soja,8000
+Amazonas,2021,soja,10000
+Amazonas,2022,soja,13740
+Amazonas,2023,soja,23455
+Bahia,2010,soja,3112929
+Bahia,2011,soja,3512568
+Bahia,2012,soja,3212789
+Bahia,2013,soja,2765533
+Bahia,2014,soja,3206364
+Bahia,2015,soja,4513633
+Bahia,2016,soja,3257119
+Bahia,2017,soja,5143899
+Bahia,2018,soja,6310780
+Bahia,2019,soja,5329694
+Bahia,2020,soja,6078010
+Bahia,2021,soja,6839555
+Bahia,2022,soja,6958197
+Bahia,2023,soja,7776560
+Brasil,2010,soja,68756343
+Brasil,2011,soja,74815447
+Brasil,2012,soja,65848857
+Brasil,2013,soja,81724477
+Brasil,2014,soja,86760520
+Brasil,2015,soja,97464936
+Brasil,2016,soja,96394820
+Brasil,2017,soja,114732101
+Brasil,2018,soja,117912450
+Brasil,2019,soja,114316829
+Brasil,2020,soja,121820949
+Brasil,2021,soja,134799179
+Brasil,2022,soja,121290103
+Brasil,2023,soja,152144238
+Ceara,2010,soja,3417
+Ceara,2012,soja,3854
+Ceara,2018,soja,190
+Ceara,2020,soja,1350
+Ceara,2021,soja,4528
+Ceara,2022,soja,7740
+Ceara,2023,soja,19113
+Distrito Federal,2010,soja,177065
+Distrito Federal,2011,soja,184047
+Distrito Federal,2012,soja,176160
+Distrito Federal,2013,soja,152250
+Distrito Federal,2014,soja,216000
+Distrito Federal,2015,soja,180832
+Distrito Federal,2016,soja,233888
+Distrito Federal,2017,soja,241500
+Distrito Federal,2018,soja,253110
+Distrito Federal,2019,soja,261000
+Distrito Federal,2020,soja,290550
+Distrito Federal,2021,soja,312000
+Distrito Federal,2022,soja,303120
+Distrito Federal,2023,soja,306000
+Espirito Santo,2022,soja,200
+Espirito Santo,2023,soja,3780
+Goias,2010,soja,7252926
+Goias,2011,soja,7703982
+Goias,2012,soja,8398891
+Goias,2013,soja,8913069
+Goias,2014,soja,8938560
+Goias,2015,soja,8606210
+Goias,2016,soja,10239473
+Goias,2017,soja,11372539
+Goias,2018,soja,11476946
+Goias,2019,soja,11080442
+Goias,2020,soja,12849800
+Goias,2021,soja,13659826
+Goias,2022,soja,15216144
+Goias,2023,soja,17405060
+Maranhao,2010,soja,1322363
+Maranhao,2011,soja,1571418
+Maranhao,2012,soja,1640183
+Maranhao,2013,soja,1581687
+Maranhao,2014,soja,1875792
+Maranhao,2015,soja,2099507
+Maranhao,2016,soja,1242772
+Maranhao,2017,soja,2331688
+Maranhao,2018,soja,2751206
+Maranhao,2019,soja,2850084
+Maranhao,2020,soja,3056550
+Maranhao,2021,soja,3240985
+Maranhao,2022,soja,3537377
+Maranhao,2023,soja,3821792
+Mato Grosso,2010,soja,18787783
+Mato Grosso,2011,soja,20800544
+Mato Grosso,2012,soja,21841292
+Mato Grosso,2013,soja,23416774
+Mato Grosso,2014,soja,26495884
+Mato Grosso,2015,soja,27850954
+Mato Grosso,2016,soja,26277303
+Mato Grosso,2017,soja,30479870
+Mato Grosso,2018,soja,31608562
+Mato Grosso,2019,soja,32242463
+Mato Grosso,2020,soja,35070044
+Mato Grosso,2021,soja,35336979
+Mato Grosso,2022,soja,38025387
+Mato Grosso,2023,soja,44425783
+Mato Grosso do Sul,2010,soja,5340462
+Mato Grosso do Sul,2011,soja,5079581
+Mato Grosso do Sul,2012,soja,4594359
+Mato Grosso do Sul,2013,soja,5780519
+Mato Grosso do Sul,2014,soja,6339386
+Mato Grosso do Sul,2015,soja,7305608
+Mato Grosso do Sul,2016,soja,7389990
+Mato Grosso do Sul,2017,soja,9101890
+Mato Grosso do Sul,2018,soja,9869382
+Mato Grosso do Sul,2019,soja,8698011
+Mato Grosso do Sul,2020,soja,10939032
+Mato Grosso do Sul,2021,soja,12226648
+Mato Grosso do Sul,2022,soja,8538611
+Mato Grosso do Sul,2023,soja,14193250
+Minas Gerais,2010,soja,2902464
+Minas Gerais,2011,soja,2940857
+Minas Gerais,2012,soja,3073499
+Minas Gerais,2013,soja,3375690
+Minas Gerais,2014,soja,3345549
+Minas Gerais,2015,soja,3524055
+Minas Gerais,2016,soja,4747494
+Minas Gerais,2017,soja,5318554
+Minas Gerais,2018,soja,5438116
+Minas Gerais,2019,soja,5189781
+Minas Gerais,2020,soja,6218740
+Minas Gerais,2021,soja,6984227
+Minas Gerais,2022,soja,7639648
+Minas Gerais,2023,soja,8459161
+Para,2010,soja,243616
+Para,2011,soja,317093
+Para,2012,soja,373398
+Para,2013,soja,506347
+Para,2014,soja,736947
+Para,2015,soja,1022677
+Para,2016,soja,1304598
+Para,2017,soja,1632115
+Para,2018,soja,1638469
+Para,2019,soja,1781672
+Para,2020,soja,1990794
+Para,2021,soja,2232499
+Para,2022,soja,2574954
+Para,2023,soja,3156487
+Paraiba,2014,soja,420
+Paraiba,2022,soja,56
+Parana,2010,soja,14091829
+Parana,2011,soja,15457911
+Parana,2012,soja,10937896
+Parana,2013,soja,15937620
+Parana,2014,soja,14913173
+Parana,2015,soja,17229378
+Parana,2016,soja,17122294
+Parana,2017,soja,19181853
+Parana,2018,soja,19035720
+Parana,2019,soja,16348364
+Parana,2020,soja,20875792
+Parana,2021,soja,19205802
+Parana,2022,soja,13454457
+Parana,2023,soja,21553541
+Pernambuco,2021,soja,600
+Pernambuco,2023,soja,400
+Piaui,2010,soja,868493
+Piaui,2011,soja,1144033
+Piaui,2012,soja,1242574
+Piaui,2013,soja,920950
+Piaui,2014,soja,1488646
+Piaui,2015,soja,1772722
+Piaui,2016,soja,644263
+Piaui,2017,soja,2020195
+Piaui,2018,soja,2469650
+Piaui,2019,soja,2325951
+Piaui,2020,soja,2447620
+Piaui,2021,soja,2713998
+Piaui,2022,soja,3077485
+Piaui,2023,soja,3389142
+Rio Grande do Sul,2010,soja,10480026
+Rio Grande do Sul,2011,soja,11717548
+Rio Grande do Sul,2012,soja,5945243
+Rio Grande do Sul,2013,soja,12756577
+Rio Grande do Sul,2014,soja,13041720
+Rio Grande do Sul,2015,soja,15700264
+Rio Grande do Sul,2016,soja,16209892
+Rio Grande do Sul,2017,soja,18744186
+Rio Grande do Sul,2018,soja,17538725
+Rio Grande do Sul,2019,soja,18498119
+Rio Grande do Sul,2020,soja,11307760
+Rio Grande do Sul,2021,soja,20420501
+Rio Grande do Sul,2022,soja,9370339
+Rio Grande do Sul,2023,soja,12693487
+Rio de Janeiro,2021,soja,324
+Rio de Janeiro,2022,soja,953
+Rio de Janeiro,2023,soja,2577
+Rondonia,2010,soja,385388
+Rondonia,2011,soja,419522
+Rondonia,2012,soja,470485
+Rondonia,2013,soja,574900
+Rondonia,2014,soja,614678
+Rondonia,2015,soja,748429
+Rondonia,2016,soja,759928
+Rondonia,2017,soja,913454
+Rondonia,2018,soja,1000311
+Rondonia,2019,soja,1190195
+Rondonia,2020,soja,1348724
+Rondonia,2021,soja,1352087
+Rondonia,2022,soja,1750249
+Rondonia,2023,soja,2131535
+Roraima,2010,soja,3920
+Roraima,2011,soja,10080
+Roraima,2012,soja,14000
+Roraima,2013,soja,40200
+Roraima,2014,soja,33950
+Roraima,2015,soja,55795
+Roraima,2016,soja,67347
+Roraima,2017,soja,45077
+Roraima,2018,soja,105780
+Roraima,2019,soja,110090
+Roraima,2020,soja,139550
+Roraima,2021,soja,225398
+Roraima,2022,soja,346647
+Roraima,2023,soja,445076
+Santa Catarina,2010,soja,1378532
+Santa Catarina,2011,soja,1490551
+Santa Catarina,2012,soja,1079690
+Santa Catarina,2013,soja,1586351
+Santa Catarina,2014,soja,1668235
+Santa Catarina,2015,soja,2000323
+Santa Catarina,2016,soja,2139611
+Santa Catarina,2017,soja,2447350
+Santa Catarina,2018,soja,2338046
+Santa Catarina,2019,soja,2270512
+Santa Catarina,2020,soja,2243989
+Santa Catarina,2021,soja,2323735
+Santa Catarina,2022,soja,2159405
+Santa Catarina,2023,soja,2951678
+Sao Paulo,2010,soja,1412934
+Sao Paulo,2011,soja,1271437
+Sao Paulo,2012,soja,1566956
+Sao Paulo,2013,soja,1844951
+Sao Paulo,2014,soja,1709229
+Sao Paulo,2015,soja,2406262
+Sao Paulo,2016,soja,2792796
+Sao Paulo,2017,soja,3291823
+Sao Paulo,2018,soja,3410297
+Sao Paulo,2019,soja,3455497
+Sao Paulo,2020,soja,3887567
+Sao Paulo,2021,soja,4184832
+Sao Paulo,2022,soja,4478064
+Sao Paulo,2023,soja,4962226
+Tocantins,2010,soja,991326
+Tocantins,2011,soja,1193453
+Tocantins,2012,soja,1276928
+Tocantins,2013,soja,1557939
+Tocantins,2014,soja,2094100
+Tocantins,2015,soja,2418367
+Tocantins,2016,soja,1922508
+Tocantins,2017,soja,2410207
+Tocantins,2018,soja,2606036
+Tocantins,2019,soja,2615178
+Tocantins,2020,soja,3004239
+Tocantins,2021,soja,3477152
+Tocantins,2022,soja,3785386
+Tocantins,2023,soja,4340578
+Bahia,2015,trigo,3000
+Bahia,2016,trigo,19800
+Bahia,2017,trigo,12976
+Bahia,2018,trigo,26850
+Bahia,2019,trigo,14600
+Bahia,2020,trigo,17000
+Bahia,2021,trigo,17737
+Bahia,2022,trigo,16533
+Bahia,2023,trigo,26222
+Brasil,2010,trigo,6171250
+Brasil,2011,trigo,5690043
+Brasil,2012,trigo,4418388
+Brasil,2013,trigo,5738473
+Brasil,2014,trigo,6261895
+Brasil,2015,trigo,5508451
+Brasil,2016,trigo,6834421
+Brasil,2017,trigo,4342812
+Brasil,2018,trigo,5469236
+Brasil,2019,trigo,5590815
+Brasil,2020,trigo,6344079
+Brasil,2021,trigo,7878413
+Brasil,2022,trigo,10342986
+Brasil,2023,trigo,7730188
+Ceara,2020,trigo,27
+Distrito Federal,2010,trigo,7542
+Distrito Federal,2011,trigo,9490
+Distrito Federal,2012,trigo,4782
+Distrito Federal,2013,trigo,4410
+Distrito Federal,2014,trigo,8460
+Distrito Federal,2015,trigo,9920
+Distrito Federal,2016,trigo,2394
+Distrito Federal,2017,trigo,5706
+Distrito Federal,2018,trigo,7620
+Distrito Federal,2019,trigo,6870
+Distrito Federal,2020,trigo,11400
+Distrito Federal,2021,trigo,10500
+Distrito Federal,2022,trigo,15660
+Distrito Federal,2023,trigo,10920
+Espirito Santo,2023,trigo,1566
+Goias,2010,trigo,79776
+Goias,2011,trigo,49138
+Goias,2012,trigo,42880
+Goias,2013,trigo,19543
+Goias,2014,trigo,43428
+Goias,2015,trigo,43857
+Goias,2016,trigo,63461
+Goias,2017,trigo,52845
+Goias,2018,trigo,75765
+Goias,2019,trigo,67953
+Goias,2020,trigo,110884
+Goias,2021,trigo,84035
+Goias,2022,trigo,90047
+Goias,2023,trigo,124911
+Mato Grosso,2010,trigo,936
+Mato Grosso,2011,trigo,1008
+Mato Grosso,2021,trigo,288
+Mato Grosso,2023,trigo,1393
+Mato Grosso do Sul,2010,trigo,74207
+Mato Grosso do Sul,2011,trigo,42693
+Mato Grosso do Sul,2012,trigo,23919
+Mato Grosso do Sul,2013,trigo,9132
+Mato Grosso do Sul,2014,trigo,24572
+Mato Grosso do Sul,2015,trigo,31769
+Mato Grosso do Sul,2016,trigo,47720
+Mato Grosso do Sul,2017,trigo,43065
+Mato Grosso do Sul,2018,trigo,30164
+Mato Grosso do Sul,2019,trigo,43120
+Mato Grosso do Sul,2020,trigo,73198
+Mato Grosso do Sul,2021,trigo,21470
+Mato Grosso do Sul,2022,trigo,52101
+Mato Grosso do Sul,2023,trigo,128777
+Minas Gerais,2010,trigo,84902
+Minas Gerais,2011,trigo,90146
+Minas Gerais,2012,trigo,80320
+Minas Gerais,2013,trigo,119501
+Minas Gerais,2014,trigo,204225
+Minas Gerais,2015,trigo,245214
+Minas Gerais,2016,trigo,219436
+Minas Gerais,2017,trigo,199048
+Minas Gerais,2018,trigo,198773
+Minas Gerais,2019,trigo,242367
+Minas Gerais,2020,trigo,296770
+Minas Gerais,2021,trigo,207262
+Minas Gerais,2022,trigo,319527
+Minas Gerais,2023,trigo,459229
+Parana,2010,trigo,3442660
+Parana,2011,trigo,2444995
+Parana,2012,trigo,2138610
+Parana,2013,trigo,1900178
+Parana,2014,trigo,3816201
+Parana,2015,trigo,3330589
+Parana,2016,trigo,3357449
+Parana,2017,trigo,2330977
+Parana,2018,trigo,2930537
+Parana,2019,trigo,2408810
+Parana,2020,trigo,3123952
+Parana,2021,trigo,3235873
+Parana,2022,trigo,3611026
+Parana,2023,trigo,3639645
+Rio Grande do Sul,2010,trigo,2116952
+Rio Grande do Sul,2011,trigo,2744936
+Rio Grande do Sul,2012,trigo,1866254
+Rio Grande do Sul,2013,trigo,3351150
+Rio Grande do Sul,2014,trigo,1670623
+Rio Grande do Sul,2015,trigo,1391829
+Rio Grande do Sul,2016,trigo,2541889
+Rio Grande do Sul,2017,trigo,1192918
+Rio Grande do Sul,2018,trigo,1750700
+Rio Grande do Sul,2019,trigo,2287720
+Rio Grande do Sul,2020,trigo,2106447
+Rio Grande do Sul,2021,trigo,3547866
+Rio Grande do Sul,2022,trigo,5299994
+Rio Grande do Sul,2023,trigo,2587340
+Santa Catarina,2010,trigo,243595
+Santa Catarina,2011,trigo,229130
+Santa Catarina,2012,trigo,139416
+Santa Catarina,2013,trigo,250214
+Santa Catarina,2014,trigo,261308
+Santa Catarina,2015,trigo,131518
+Santa Catarina,2016,trigo,221265
+Santa Catarina,2017,trigo,123467
+Santa Catarina,2018,trigo,147683
+Santa Catarina,2019,trigo,146039
+Santa Catarina,2020,trigo,171727
+Santa Catarina,2021,trigo,317969
+Santa Catarina,2022,trigo,438902
+Santa Catarina,2023,trigo,288123
+Sao Paulo,2010,trigo,120680
+Sao Paulo,2011,trigo,78507
+Sao Paulo,2012,trigo,122207
+Sao Paulo,2013,trigo,84345
+Sao Paulo,2014,trigo,233078
+Sao Paulo,2015,trigo,320755
+Sao Paulo,2016,trigo,361007
+Sao Paulo,2017,trigo,381810
+Sao Paulo,2018,trigo,301144
+Sao Paulo,2019,trigo,373336
+Sao Paulo,2020,trigo,432674
+Sao Paulo,2021,trigo,435413
+Sao Paulo,2022,trigo,499196
+Sao Paulo,2023,trigo,462062
